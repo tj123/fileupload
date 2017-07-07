@@ -2,7 +2,7 @@
 
 (function(){
 
-  angular.module('app',[])
+  angular.module('app',['file.uploader'])
 
 
 
